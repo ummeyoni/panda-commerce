@@ -23,3 +23,53 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, #F39916, rgb(230, 175, 26) 100%);
+}
+
+.cat2 {
+    background-image: linear-gradient(to bottom, #D95DCE, #7F0F76 100%);
+}
+
+.cat3 {
+    background-image: linear-gradient(to bottom, #2B01FB, #543BCF 100%);
+}
+
+.catagories h1 {
+    color: white;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
+#contact_us {
+    height: 300px;
+}
+
+#contact_us h6 {
+    color: gray;
+}
+
+footer {
+    text-align: center;
+}
